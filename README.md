@@ -1,1 +1,0 @@
-# Scaphoid-Clinical-Decision-Rule
